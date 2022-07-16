@@ -1,0 +1,8 @@
+E:\Data Amikom\Semester 2\Pemrograman\Mahasiswa\Mahasiswa\bin\Debug\Mahasiswa.exe.config
+E:\Data Amikom\Semester 2\Pemrograman\Mahasiswa\Mahasiswa\bin\Debug\Mahasiswa.exe
+E:\Data Amikom\Semester 2\Pemrograman\Mahasiswa\Mahasiswa\bin\Debug\Mahasiswa.pdb
+E:\Data Amikom\Semester 2\Pemrograman\Mahasiswa\Mahasiswa\obj\Debug\Mahasiswa.csproj.AssemblyReference.cache
+E:\Data Amikom\Semester 2\Pemrograman\Mahasiswa\Mahasiswa\obj\Debug\Mahasiswa.csproj.SuggestedBindingRedirects.cache
+E:\Data Amikom\Semester 2\Pemrograman\Mahasiswa\Mahasiswa\obj\Debug\Mahasiswa.csproj.CoreCompileInputs.cache
+E:\Data Amikom\Semester 2\Pemrograman\Mahasiswa\Mahasiswa\obj\Debug\Mahasiswa.exe
+E:\Data Amikom\Semester 2\Pemrograman\Mahasiswa\Mahasiswa\obj\Debug\Mahasiswa.pdb

@@ -1,0 +1,8 @@
+E:\Data Amikom\Semester 2\Pemrograman\Enscapsulation\Enscapsulation\bin\Debug\Enscapsulation.exe.config
+E:\Data Amikom\Semester 2\Pemrograman\Enscapsulation\Enscapsulation\bin\Debug\Enscapsulation.exe
+E:\Data Amikom\Semester 2\Pemrograman\Enscapsulation\Enscapsulation\bin\Debug\Enscapsulation.pdb
+E:\Data Amikom\Semester 2\Pemrograman\Enscapsulation\Enscapsulation\obj\Debug\Enscapsulation.csproj.AssemblyReference.cache
+E:\Data Amikom\Semester 2\Pemrograman\Enscapsulation\Enscapsulation\obj\Debug\Enscapsulation.csproj.SuggestedBindingRedirects.cache
+E:\Data Amikom\Semester 2\Pemrograman\Enscapsulation\Enscapsulation\obj\Debug\Enscapsulation.csproj.CoreCompileInputs.cache
+E:\Data Amikom\Semester 2\Pemrograman\Enscapsulation\Enscapsulation\obj\Debug\Enscapsulation.exe
+E:\Data Amikom\Semester 2\Pemrograman\Enscapsulation\Enscapsulation\obj\Debug\Enscapsulation.pdb

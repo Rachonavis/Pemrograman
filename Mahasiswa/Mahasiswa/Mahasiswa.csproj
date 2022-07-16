@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{E66D0829-068C-47E3-A4B8-F87111AA6677}</ProjectGuid>
+    <ProjectGuid>{D7893806-CCB5-4FC4-92BD-3A3A5FDF859D}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>LatihanOverloadingMethod</RootNamespace>
-    <AssemblyName>LatihanOverloadingMethod</AssemblyName>
+    <RootNamespace>Mahasiswa</RootNamespace>
+    <AssemblyName>Mahasiswa</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Numbers.cs" />
+    <Compile Include="Mahasiswa.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

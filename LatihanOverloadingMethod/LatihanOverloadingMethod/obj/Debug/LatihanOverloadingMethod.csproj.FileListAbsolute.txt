@@ -1,0 +1,8 @@
+E:\Data Amikom\Semester 2\Pemrograman\LatihanOverloadingMethod\LatihanOverloadingMethod\bin\Debug\LatihanOverloadingMethod.exe.config
+E:\Data Amikom\Semester 2\Pemrograman\LatihanOverloadingMethod\LatihanOverloadingMethod\bin\Debug\LatihanOverloadingMethod.exe
+E:\Data Amikom\Semester 2\Pemrograman\LatihanOverloadingMethod\LatihanOverloadingMethod\bin\Debug\LatihanOverloadingMethod.pdb
+E:\Data Amikom\Semester 2\Pemrograman\LatihanOverloadingMethod\LatihanOverloadingMethod\obj\Debug\LatihanOverloadingMethod.csproj.AssemblyReference.cache
+E:\Data Amikom\Semester 2\Pemrograman\LatihanOverloadingMethod\LatihanOverloadingMethod\obj\Debug\LatihanOverloadingMethod.csproj.SuggestedBindingRedirects.cache
+E:\Data Amikom\Semester 2\Pemrograman\LatihanOverloadingMethod\LatihanOverloadingMethod\obj\Debug\LatihanOverloadingMethod.csproj.CoreCompileInputs.cache
+E:\Data Amikom\Semester 2\Pemrograman\LatihanOverloadingMethod\LatihanOverloadingMethod\obj\Debug\LatihanOverloadingMethod.exe
+E:\Data Amikom\Semester 2\Pemrograman\LatihanOverloadingMethod\LatihanOverloadingMethod\obj\Debug\LatihanOverloadingMethod.pdb
