@@ -1,0 +1,8 @@
+E:\Data Amikom\Semester 2\Pemrograman\ResponsiPemrograman_2_4424\ResponsiPemrograman_2_4424\bin\Debug\ResponsiPemrograman_2_4424.exe.config
+E:\Data Amikom\Semester 2\Pemrograman\ResponsiPemrograman_2_4424\ResponsiPemrograman_2_4424\bin\Debug\ResponsiPemrograman_2_4424.exe
+E:\Data Amikom\Semester 2\Pemrograman\ResponsiPemrograman_2_4424\ResponsiPemrograman_2_4424\bin\Debug\ResponsiPemrograman_2_4424.pdb
+E:\Data Amikom\Semester 2\Pemrograman\ResponsiPemrograman_2_4424\ResponsiPemrograman_2_4424\obj\Debug\ResponsiPemrograman_2_4424.csproj.AssemblyReference.cache
+E:\Data Amikom\Semester 2\Pemrograman\ResponsiPemrograman_2_4424\ResponsiPemrograman_2_4424\obj\Debug\ResponsiPemrograman_2_4424.csproj.SuggestedBindingRedirects.cache
+E:\Data Amikom\Semester 2\Pemrograman\ResponsiPemrograman_2_4424\ResponsiPemrograman_2_4424\obj\Debug\ResponsiPemrograman_2_4424.csproj.CoreCompileInputs.cache
+E:\Data Amikom\Semester 2\Pemrograman\ResponsiPemrograman_2_4424\ResponsiPemrograman_2_4424\obj\Debug\ResponsiPemrograman_2_4424.exe
+E:\Data Amikom\Semester 2\Pemrograman\ResponsiPemrograman_2_4424\ResponsiPemrograman_2_4424\obj\Debug\ResponsiPemrograman_2_4424.pdb
